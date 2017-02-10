@@ -1,10 +1,10 @@
-# Lab 01 - *Tumblr Feed* 
+# Lab 02 - *Tumblr Feed* 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/frhhh/Tumblr-Feed/blob/master/Lab01.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/frhhh/Tumblr-Feed/blob/master/Lab02.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
